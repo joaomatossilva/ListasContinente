@@ -1,0 +1,9 @@
+.ct-listas-dropdown {
+    right: 0;
+    left: auto !important;
+}
+
+.listas .popover-listas {
+    position: absolute;
+    top: 2.5 rem !important;
+}
